@@ -1,0 +1,26 @@
+{
+  "name": "require-txt",
+  "version": "1.0.0",
+  "description": "Require plain text files like any .js or .json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuurDutoit/require-txt.git"
+  },
+  "keywords": [
+    "require",
+    "txt",
+    "plain",
+    "text",
+    "extension"
+  ],
+  "author": "Tuur Dutoit <me@tuurdutoit.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TuurDutoit/require-txt/issues"
+  },
+  "homepage": "https://github.com/TuurDutoit/require-txt#readme"
+}
